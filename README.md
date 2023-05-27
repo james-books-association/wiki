@@ -17,9 +17,15 @@ They are in a ```textstudio```folder
 - Digimon:
 - Mario:
 - Pokemon:
+- Sonic
+- Kirby
 
 Only needed for info and images. Nothing else.
 
 ### Snap
 
 I needed to borrow some code from the Offline version of Snap. The url is: https://snap.berkeley.edu/
+
+### Wikimon
+
+Needed some info located there. Url is:
