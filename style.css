@@ -1,0 +1,40 @@
+body{
+	background-color: green;
+	font-family: Comic Sans Ms;
+}
+
+#mario{
+	background-color: red;
+	padding: 10px;
+	text-align: center;
+}
+#digimon{
+	background-color: skyblue;
+	padding: 10px;
+	text-align: center;
+}
+#pokemon{
+	background-color: yellow;
+	padding: 10px;
+	text-align: center;
+}
+#sonic{
+	background-color: blue;
+	padding: 10px;
+	text-align: center;
+}
+#kirby{
+	background-color: pink;
+	padding: 10px;
+	text-align: center;
+}
+#smash{
+	background-color: black;
+	padding: 10px;
+	text-align: center;
+}
+#ac{
+	background-color: darkgreen;
+	padding: 10px;
+	text-align: center;
+}
