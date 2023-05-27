@@ -1,14 +1,19 @@
 # jbua-wiki.github.io
 
-# Credits
-textstudio: "https://www.textstudio.com/" I have seperate files in repository
+## Credits
+
+### textstudio: 
+
+Located at: https://www.textstudio.com/ 
+
+I have seperate files that I used in repository
 
 They are in a ```textstudio```folder
 
-fandom: 
+### fandom: 
 
 - Digimon:
-  
 - Mario:
-  
 - Pokemon:
+
+Only needed for info and images. Nothing else.
