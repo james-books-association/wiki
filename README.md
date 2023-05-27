@@ -19,3 +19,7 @@ They are in a ```textstudio```folder
 - Pokemon:
 
 Only needed for info and images. Nothing else.
+
+### Snap
+
+I needed to borrow some code from the Offline version of Snap. The url is: https://snap.berkeley.edu/
