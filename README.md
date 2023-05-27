@@ -1,4 +1,6 @@
-# jbua-wiki.github.io
+# JBUA wiki
+
+A `LARGE` html wiki site.
 
 ## Credits
 
