@@ -1,6 +1,6 @@
 # JBUA wiki
 
-A `LARGE` html wiki site.
+A `LARGE` html wiki site. I have done all of the coding `by my self`.
 
 ## Credits
 
@@ -10,7 +10,7 @@ Located at: https://www.textstudio.com/
 
 I have seperate files that I used in repository
 
-They are in a ```textstudio```folder
+They are in a `textstudio`folder
 
 ### fandom: 
 
