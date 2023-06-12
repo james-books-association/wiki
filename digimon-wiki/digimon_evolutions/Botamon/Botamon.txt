@@ -148,7 +148,6 @@ Botamon
                         Beelzemon
                             Beelzemon Blast Mode
                             Ogudomon
-                    Gankoomon
                 SkullMeramon
                     Boltmon
                     Beelzemon
