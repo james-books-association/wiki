@@ -1,20 +1,10 @@
 .empty{
   background-color: black;
 }
-/* Styling for the body */
-body {
-  font-family: Arial, sans-serif;
-}
+table, th, td{
 
-/* Styling for the image */
-img {
-  margin: 0 auto;
-  padding-top: 20px;
-  object-fit: cover;
-  width: 450px;
-  height: 350px;
-}
-
+				border: 1px solid black;
+				border-collapse: collapse;
 /* Styling for the list */
 ul {
   list-style-type: none;
