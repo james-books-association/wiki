@@ -4,20 +4,9 @@ div a{
 h3(
 	text-align: center;
 )
-/* Styling for the body */
-body {
-  font-family: Arial, sans-serif;
+.empty{
+  background-color: black;
 }
-
-/* Styling for the image */
-img {
-  margin: 0 auto;
-  padding-top: 20px;
-  object-fit: cover;
-  width: 450px;
-  height: 350px;
-}
-
 /* Styling for the list */
 ul {
   list-style-type: none;
