@@ -1,20 +1,6 @@
 div a{
 	padding: 10px;
 }
-/* Styling for the body */
-body {
-  font-family: Arial, sans-serif;
-}
-
-/* Styling for the image */
-img {
-  margin: 0 auto;
-  padding-top: 20px;
-  object-fit: cover;
-  width: 450px;
-  height: 350px;
-}
-
 /* Styling for the list */
 ul {
   list-style-type: none;
