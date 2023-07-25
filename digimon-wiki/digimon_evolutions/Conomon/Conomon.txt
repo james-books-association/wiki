@@ -1,0 +1,18 @@
+Conomon
+	Kokomon
+		Lopmon
+			Wendigomon
+				Antylamon(evil)
+					Cherubimon(evil)
+					Cherubimon(good)
+				Antylamon(good)
+					Cherubimon(good)
+					Cherubimon(evil)
+			Prairiemon
+				Antylamon(good)
+					Cherubimon(good)
+					Cherubimon(evil)
+			Turuiemon
+				Antylamon(good)
+					Cherubimon(good)
+					Cherubimon(evil)
