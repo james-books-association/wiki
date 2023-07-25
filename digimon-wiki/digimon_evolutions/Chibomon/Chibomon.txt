@@ -1,0 +1,40 @@
+Chibomon
+	DemiVeemon
+		Veemon
+			ExVeemon
+				Paildramon
+					Imperialdramon Dragon Mode
+						Imperialdramon Dragon Mode(black)
+							Imperialdramon Fighter Mode(black)
+						Imperialdramon Fighter Mode
+							Imperialdramon Paladin Mode
+				Dinobeemon
+					GranKuwagamon
+						GrandisKuwagamon
+						MegaGranKuwagamon
+					Imperialdramon Dragon Mode
+						Imperialdramon Dragon Mode(black)
+							Imperialdramon Fighter Mode(black)
+						Imperialdramon Fighter Mode
+							Imperialdramon Paladin Mode
+					TigerVespamon
+				Magnamon
+			Veedramon
+				RedVeedramon
+				AeroVeedramon
+					UlforceVeedramon
+						UlforceVeedramon Future Mode
+			Magnadramon X
+			Flamedramon
+				Imperialdramon Fighter Mode
+					Imperialdramon Paladin Mode
+			Raidramon
+			Sethmon
+			Yasyamon
+			Honeybeemon
+			Depthmon
+			Sagittarimon
+			Gargoylemon
+			Kangarumon
+			Magnamon
+			GoldVeedramon
