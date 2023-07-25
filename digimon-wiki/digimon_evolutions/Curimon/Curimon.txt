@@ -1,0 +1,14 @@
+Curimon
+	Gurimon
+		Gammamon
+			GulusGammamon
+				Regulusmon
+			BetelGammamon
+				Canoweissmon
+					Siriusmon
+			KausGammamon
+				Canoweissmon
+					Siriusmon
+			WezenGammamon
+				Canoweissmon
+					Siriusmon
