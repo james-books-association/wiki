@@ -1,0 +1,8 @@
+Chibickmon
+	Pickmon
+		Starmon(2010 anime)
+			ShootingStarmon
+			SuperStarmon
+				Justimon(Blitz Arm)
+					Fujinmon
+		ShootingStarmon
