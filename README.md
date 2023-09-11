@@ -19,6 +19,7 @@ I have seperate files that I used in repository. They are in a `textstudio`folde
 - Pokemon: https://pokemon.fandom.com/wiki/Pok%C3%A9mon_Wiki
 - Sonic: https://sonic.fandom.com/wiki/Sonic_News_Network  `Not entirelly sure why it is marked as a news network, but whatever`.
 - Kirby: https://kirby.fandom.com/wiki/Kirby_Wiki
+- Super Smash Bros: https://www.ssbwiki.com/
 
 Only needed for info and images. Nothing else.
 
