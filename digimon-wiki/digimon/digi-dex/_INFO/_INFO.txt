@@ -1,0 +1,1180 @@
+Abbadomon Core
+	DEX-TEXT:
+		Info:
+			The main body that exists within Abbadomon<link to Abbadomon>, it is its true form. It seeks nothingness, prefers nothingness, and rejects everything except nothingness. After it turns everything into nothingness, it disappears itself, fulfilling its purpose.
+			Its Special Move is making the energy that it shoots from both of its hands stick to the enemy, corroding them, and gnawing away at their whole body (Eclipse None). In addition, it has "Bingerard", in which it transforms its right arm into a spear and pierces with it, and "Death Charge", in which it transforms its left arm into a gun barrel and fires energy shots. Also, its "Gaze Eraser", cursed beams fired from all of the eyes on its cape, is even more cursed than when it is performed by Abbadomon.
+		Attack(s):
+			-Eclipse None
+			-Bingerard
+			-Death Charge
+			-Gaze Eraser
+		Type: Unidentified
+		Attribute: Unknown
+		Level: Mega
+Abbadomon
+	DEX-TEXT:
+		Info:
+			A mysterious Digimon that absorbed the negative data overflowing from the network beyond its limit to Digivolve into a gigantic form. Abbadomon exists to transcend good and evil, returning all to nothingness. Its central maw and the mouths on its numerous tentacles bite into Digimon and the very Digital World, leaving only blank, empty data in its wake. The birth of Abbadomon undoubtedly threatens everything in the Digital World, and it is thought to have annihilated several Digital Worlds in other dimensions.
+			It uses its special move Gaze Eraser to fire cursed beams from the eyes on its tentacles, Gala-lightness to grab the enemy with its tentacles and swallow them whole with its central maw, or White Liner to fire a white beam from its mouth. Those struck by any of these moves are erased in an instant.
+		Attack(s):
+			-Gaze Eraser
+			-Gala-lightness
+			-White Liner
+		Type: Unidentified
+		Attribute: Unknown
+		Level: Mega
+Achillesmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Aegiochusmon Blue
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Aegiochusmon Dark
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Aegiochusmon Green
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Aegiochusmon Holy
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Aegiochusmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+AeroVeedramon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Agumon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Agumon(2006)
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Agumon(Black)
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Agumon(Black) X
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Agumon(Bond of Bravery)
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Agumon X
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Agumon Expert
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Agunimon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Airdramon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Ajatarmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Akatorimon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Aldamon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Allomon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Allomon X
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Alphamon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Alphamon Ouryuken
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Amphimon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+AncientBeetlemon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+AncientGarurumon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+AncientGreymon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+AncientKazemon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+AncientMegatheriummon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+AncientMermaimon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+AncientSphinxmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+AncientTroymon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+AncientVolcanomon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+AncientWisemon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Andromon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Angemon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Angewomon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Angewomon X
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Angoramon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Ankylomon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Antylamon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Antylamon(DEVA)
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Anubismon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Apemon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Apocalymon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Apollomon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Aquilamon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Arbormon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Arcadiamon(ROOKIE)
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Archelomon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Arcturusmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Argomon(Baby)
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Argomon(Champion)
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Argomon(In-Training)
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Argomon(Mega)
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Argomon(Rookie)
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Argomon(Ultimate)
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+ArkhaiAngemon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Armadillomon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Armageddemon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Arresterdramon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Arresterdramon: Superior Mode
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Arukenimon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Aruraumon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Assaultmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Astamon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Asuramon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Atamadekachimon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+AtlurBallistamon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Aurumon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+AvengeKidmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Azulongmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Babamon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Baboongamon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Bacchusmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Bagramon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Baihumon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Bakemon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Bakomon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Ballistamon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Baluchimon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BanchoGolemon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BanchoLeomon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BanchoLillymon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BanchoMamemon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BanchoStingmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BaoHuckmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Barbamon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Barbamon X
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Baronmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Bastemon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Bearmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Bebydomon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BeelStarmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BeelStarmon X
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Beelzemon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Beelzemon (2010 Anime)
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Beelzemon X
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Beelzemon: Blast Mode
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Beetlemon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Belphemon X
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Belphemon: Rage Mode
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Belphemon: Sleep Mode
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Beowolfmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Betamon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Betamon X
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BetelGammamon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Betsumon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Bibimon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BigMamemon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BigUkkomon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Birdramon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BishopChessmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Biyomon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BlackGaogamon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BlackGargomon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BlackGatomon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BlackGatomon Uver.
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BlackGrowlmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BlackKingNumemon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BlackMachGaogamon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BlackMegaGargomon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BlackRapidmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BlackSeraphimon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BlackWarGreymon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BlackWarGreymon X
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BlackWarGrowlmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BladeKuwagamon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Blastmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Blimpmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BlitzGreymon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BloomLordmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Blossomon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BlueMeramon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Boarmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Bokomon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Boltboutamon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Boltmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BomberNanimon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Bombermon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Bommon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Bommon(2010 Anime)
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Boogiemon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Bosamon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Botamon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Boutmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Bowmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Brachiomon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Breakdramon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Brigadramon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BryweLudramon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Bucchiemon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Bucchiemon(Green)
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Budmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Bukamon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Bulbmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Bulkmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Bullmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Bulucomon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Burgamon(Champion)
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Burgamon(Rookie)
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BurningGreymon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Burpmon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+BushiAgumon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:
+Butterflymon
+	DEX-TEXT:
+		Info:
+		Attack(s):
+		Type:
+		Attribute:
+		Level:

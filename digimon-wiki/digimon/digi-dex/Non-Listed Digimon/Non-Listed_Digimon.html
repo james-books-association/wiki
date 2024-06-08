@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+  font-family: comic sans ms;
+}
+
+#myInput {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 12px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+#myUL {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#myUL li a {
+  border: 1px solid #ddd;
+  margin-top: -1px; /* Prevent double borders */
+  background-color: #f6f6f6;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
+  display: block
+}
+
+#myUL li a:hover:not(.header) {
+  background-color: #eee;
+}
+</style>
+</head>
+<body>
+	<a href="file:///home/chronos/u-cc8f98fd6ebdf8b53256a22ff026565724458379/MyFiles/Search%20Test/Search_test.html"><img src="BACK.png" width="184" height="50"></a>
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search" title="Type in a name">
+<ul id="myUL">
+	<!--All digimon with "A" as it's first letter-->
+	<li><a href="#"><img src="" width="100" height="100">Agumon (Black) (2006 Anime Version)</a></li>
+	<li><a href="#"><img src="" width="100" height="100">Agumon: Burst Mode</a></li>
+	<li><a href="#"><img src="" width="100" height="100">Aircraft Carrier Whamon</a></li>
+	<li><a href="#"><img src="" width="100" height="100">Amon</a></li>
+	<li><a href="#"><img src="" width="100" height="100">Apollomon Darkness Mode</a></li>
+	<li><a href="#"><img src="" width="100" height="100">Arcadiamon (Champion)</a></li>
+	<li><a href="#"><img src="" width="100" height="100">Arcadiamon (In-Training)</a></li>
+	<li><a href="#"><img src="" width="100" height="100">Arcadiamon (Mega)</a></li>
+	<li><a href="#"><img src="" width="100" height="100">Arcadiamon (Ultimate)</a></li>
+	<li><a href="#"><img src="" width="100" height="100">Arcadiamon (Ultra)</a></li>
+	<li><a href="#"><img src="" width="100" height="100">Armamon</a></li>
+	<!--All digimon with "B" as it's first letter-->
+	<li><a href="#"><img src="" width="100" height="100">BalliBastemon</a></li>
+	<li><a href="#"><img src="" width="100" height="100">Ballistamon MC</a></li>
+	<li><a href="#"><img src="" width="100" height="100">Ballistamon SR</a></li>
+	<li><a href="#"><img src="" width="100" height="100">BanchoLeomon: Burst Mode</a></li>
+	<li><a href="#"><img src="" width="100" height="100">Batterimon</a></li>
+	<li><a href="#"><img src="" width="100" height="100">Battle Armament Trailmon</a></li>
+	<li><a href="#"><img src="" width="100" height="100">Beelzemon + Revolmon</a></li>
+	<li><a href="#"><img src="" width="100" height="100">Beelzemon + Starmons</a></li>
+	<li><a href="#"><img src="" width="100" height="100">BesoBombmon</a></li>
+	<li><a href="#"><img src="" width="100" height="100">BioCoatlmon</a></li>
+	<li><a href="#"><img src="" width="100" height="100">BioDarkdramon</a></li>
+	<li><a href="#"><img src="" width="100" height="100">BioLotusmon</a></li>
+	<li><a href="#"><img src="" width="100" height="100">BioSpinomon</a></li>
+	<li><a href="#"><img src="" width="100" height="100">BioStegomon</a></li>
+	<li><a href="#"><img src="" width="100" height="100">BioThunderbirmon</a></li>
+	<li><a href="#"><img src="" width="100" height="100">BishopChessmon(Black)</a></li>
+	<li><a href="#"><img src="" width="100" height="100">BlackGuilmon</a></li>
+	<li><a href="#"><img src="" width="100" height="100">BlackShoutmon X7</a></li>
+	<li><a href="#"><img src="" width="100" height="100">Blikmon</a></li>
+	<li><a href="#"><img src="" width="100" height="100">Buraimon</a></li>
+	<li><a href="#"><img src="" width="100" height="100">Butenmon</a></li>
+	<li><a href="#"><img src="" width="100" height="100">Būmon</a></li>
+</ul>
+
+<script>
+function myFunction() {
+    var input, filter, ul, li, a, i, txtValue;
+    input = document.getElementById("myInput");
+    filter = input.value.toUpperCase();
+    ul = document.getElementById("myUL");
+    li = ul.getElementsByTagName("li");
+    for (i = 0; i < li.length; i++) {
+        a = li[i].getElementsByTagName("a")[0];
+        txtValue = a.textContent || a.innerText;
+        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            li[i].style.display = "";
+        } else {
+            li[i].style.display = "none";
+        }
+    }
+}
+</script>
