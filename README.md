@@ -15,9 +15,9 @@ I have seperate files that I used in repository. They are in a `textstudio`folde
 ### fandom: 
 
 - Digimon: https://digimon.fandom.com/wiki/Digimon_Wiki
-- Mario: https://mario.fandom.com/wiki/MarioWiki
+- Mario: https://mario.fandom.com/wiki/Mario_Wiki
 - Pokemon: https://pokemon.fandom.com/wiki/Pok%C3%A9mon_Wiki
-- Sonic: https://sonic.fandom.com/wiki/Sonic_News_Network  `Not entirelly sure why it is marked as a news network, but whatever`.
+- Sonic: https://sonic.fandom.com/wiki/Sonic_Wiki_Zone
 - Kirby: https://kirby.fandom.com/wiki/Kirby_Wiki
 - Super Smash Bros: https://www.ssbwiki.com/
 
