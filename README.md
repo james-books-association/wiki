@@ -2,8 +2,7 @@
 
 A `LARGE` html wiki site. I have done all of the coding `by my self`.
 
-Check us out at: https://james-books-association.github.io/jbua-wiki.github.io/
-
+Check us out at: https://james-books-association.github.io/wiki/
 ## Credits
 
 ### textstudio: 
