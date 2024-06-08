@@ -21,7 +21,7 @@ I have seperate files that I used in repository. They are in a `textstudio`folde
 - Kirby: https://kirby.fandom.com/wiki/Kirby_Wiki
 - Super Smash Bros: https://www.ssbwiki.com/
 
-Only needed for info. Nothing else.
+Only needed for info and images(not for Digimon and Pokemon).
 
 ### Wikimon
 
