@@ -2,9 +2,8 @@
   background-color: black;
 }
 table, th, td{
-
-				border: 1px solid black;
-				border-collapse: collapse;
+  border: 1px solid black;
+	border-collapse: collapse;
 /* Styling for the list */
 ul {
   list-style-type: none;
